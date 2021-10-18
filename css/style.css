@@ -8,6 +8,37 @@
 body {
     background-color: rgb(245, 244, 244);
 }
+
+.navbar{
+padding: 0;
+margin: 0;
+border: #000;
+background-color: black;
+color: #fff;
+font-weight: bold;
+font-family: Arial, Helvetica, sans-serif;
+text-decoration-line: none;
+align-items: center;
+}
+.nav1{
+    list-style: none;
+    color: #fff;
+    text-decoration-line: none;
+    align-items: center;
+    padding-top: 14px;
+    margin-left: 440px;
+}
+.nav2{
+    color: #fff;
+    background-color: black;
+    text-decoration-line: none; 
+    margin: 0 20px;
+    padding: 0 20px;
+    align-items: center;
+    
+    
+}
+
 header{
     height: 150px;
     display: flex;
